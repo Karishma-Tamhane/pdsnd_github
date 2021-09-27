@@ -187,7 +187,7 @@ def raw_data(df):
     
     choice = 'y'
     counter = 0
-    
+    #Accept and validate user's input
     while choice == 'y':
         print('\nDo you wish to view 5 rows of raw data?y/n')
         choice = input().lower()
