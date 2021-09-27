@@ -10,10 +10,11 @@ bikeshare_2.py
 ### Description
 This project is in Python.
 It explores data related to the bike share system for Chicago, New York City, and Washington. 
-The project accepts raw inputs from user to filter the data and computes and provides descriptive statistics through the terminal.
+The project accepts raw inputs from user to filter out the data based on City, Month and Day and computes and provides descriptive statistics through the terminal.
 
 ### Files used
 new_york_city.csv
 washington.csv
 chicago.csv
 bikeshare_2.py
+
