@@ -203,6 +203,8 @@ def raw_data(df):
     print('-'*40)
 
 def main():
+    
+    #Validating user input and handling invalid input
     restart = 'y'
     while restart == 'y':
         city, month, day = get_filters()
